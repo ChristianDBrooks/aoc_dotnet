@@ -1,0 +1,14 @@
+/Users/christianbrooks/Desktop/projects/aoc_dotnet/Day2/bin/Debug/net8.0/Day2
+/Users/christianbrooks/Desktop/projects/aoc_dotnet/Day2/bin/Debug/net8.0/Day2.deps.json
+/Users/christianbrooks/Desktop/projects/aoc_dotnet/Day2/bin/Debug/net8.0/Day2.runtimeconfig.json
+/Users/christianbrooks/Desktop/projects/aoc_dotnet/Day2/bin/Debug/net8.0/Day2.dll
+/Users/christianbrooks/Desktop/projects/aoc_dotnet/Day2/bin/Debug/net8.0/Day2.pdb
+/Users/christianbrooks/Desktop/projects/aoc_dotnet/Day2/obj/Debug/net8.0/Day2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/christianbrooks/Desktop/projects/aoc_dotnet/Day2/obj/Debug/net8.0/Day2.AssemblyInfoInputs.cache
+/Users/christianbrooks/Desktop/projects/aoc_dotnet/Day2/obj/Debug/net8.0/Day2.AssemblyInfo.cs
+/Users/christianbrooks/Desktop/projects/aoc_dotnet/Day2/obj/Debug/net8.0/Day2.csproj.CoreCompileInputs.cache
+/Users/christianbrooks/Desktop/projects/aoc_dotnet/Day2/obj/Debug/net8.0/Day2.dll
+/Users/christianbrooks/Desktop/projects/aoc_dotnet/Day2/obj/Debug/net8.0/refint/Day2.dll
+/Users/christianbrooks/Desktop/projects/aoc_dotnet/Day2/obj/Debug/net8.0/Day2.pdb
+/Users/christianbrooks/Desktop/projects/aoc_dotnet/Day2/obj/Debug/net8.0/Day2.genruntimeconfig.cache
+/Users/christianbrooks/Desktop/projects/aoc_dotnet/Day2/obj/Debug/net8.0/ref/Day2.dll

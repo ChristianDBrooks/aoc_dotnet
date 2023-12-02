@@ -1,0 +1,14 @@
+/Users/christianbrooks/Desktop/projects/aoc_dotnet/bin/Debug/net8.0/aoc_dotnet
+/Users/christianbrooks/Desktop/projects/aoc_dotnet/bin/Debug/net8.0/aoc_dotnet.deps.json
+/Users/christianbrooks/Desktop/projects/aoc_dotnet/bin/Debug/net8.0/aoc_dotnet.runtimeconfig.json
+/Users/christianbrooks/Desktop/projects/aoc_dotnet/bin/Debug/net8.0/aoc_dotnet.dll
+/Users/christianbrooks/Desktop/projects/aoc_dotnet/bin/Debug/net8.0/aoc_dotnet.pdb
+/Users/christianbrooks/Desktop/projects/aoc_dotnet/obj/Debug/net8.0/aoc_dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/christianbrooks/Desktop/projects/aoc_dotnet/obj/Debug/net8.0/aoc_dotnet.AssemblyInfoInputs.cache
+/Users/christianbrooks/Desktop/projects/aoc_dotnet/obj/Debug/net8.0/aoc_dotnet.AssemblyInfo.cs
+/Users/christianbrooks/Desktop/projects/aoc_dotnet/obj/Debug/net8.0/aoc_dotnet.csproj.CoreCompileInputs.cache
+/Users/christianbrooks/Desktop/projects/aoc_dotnet/obj/Debug/net8.0/aoc_dotnet.dll
+/Users/christianbrooks/Desktop/projects/aoc_dotnet/obj/Debug/net8.0/refint/aoc_dotnet.dll
+/Users/christianbrooks/Desktop/projects/aoc_dotnet/obj/Debug/net8.0/aoc_dotnet.pdb
+/Users/christianbrooks/Desktop/projects/aoc_dotnet/obj/Debug/net8.0/aoc_dotnet.genruntimeconfig.cache
+/Users/christianbrooks/Desktop/projects/aoc_dotnet/obj/Debug/net8.0/ref/aoc_dotnet.dll
